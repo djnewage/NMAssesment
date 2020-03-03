@@ -9,8 +9,9 @@ These instructions will get you a copy of the project up and running on your loc
 ### Installing
 From Root
 ```
-cd server npm run dev
-
+cd server 
+npm install
+npm run dev
 ```
 Running this command will take a bit and may show an intial crash because it is npm installing for you through the scripts :) just give it about a minute and it should be working fine
 
