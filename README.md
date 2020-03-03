@@ -17,8 +17,7 @@ Running this command will take a bit and may show an intial crash because it is 
 
 ## Built With
 
-* [Node.js](http://www.dropwizard.io/1.0.2/docs/) - The web framework used
-* [Express](https://expressjs.com/) - Used with Node
+* [Node.js](http://www.dropwizard.io/1.0.2/docs/) - Server used
 * [React](https://reactjs.org/) - Used as my front-end-framework
 * [Material-Ui](https://material-ui.com/) - Used mainly for the searchbar
 * [Styled-Components](https://styled-components.com/) - Used because who doesnt love styled-components :D
@@ -29,5 +28,5 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 
 ## Acknowledgments
 
-* Inspiration: Northwester deals with fintech so i decided to use something with crypto!
+* Inspiration: Northwestern deals with fintech so i decided to use something with crypto!
 
