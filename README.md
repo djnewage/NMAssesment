@@ -7,7 +7,7 @@ This is a project for the NM assesment that is a fullstack application that uses
 These instructions will get you a copy of the project up and running on your local machine for the assesment. See deployment for notes on how to deploy the project on a live system.
 
 ### Installing
-From Root
+From NMAssesment-master
 ```
 cd server 
 npm install
